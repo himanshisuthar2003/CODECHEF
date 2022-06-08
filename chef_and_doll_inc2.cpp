@@ -3,8 +3,9 @@ using namespace std;
 void doll(){
     int n ,j,x;
      cin>>n;
+      int r = 0;
 	for(j=0;j<n;j++ ){
-            int r = 0;
+           
 
             cin>>x;
             r= r^x;
