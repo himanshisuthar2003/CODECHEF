@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+//write your code here
+
 void doll(){
     int n ,j,x;
      cin>>n;
