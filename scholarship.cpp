@@ -1,4 +1,4 @@
-#include <iostream>
+[#include <iostream>
 using namespace std;
 //write your code here
 
@@ -16,4 +16,4 @@ int main() {
 	    cout<<"0";
 	}
 	return 0;
-}
+}]
