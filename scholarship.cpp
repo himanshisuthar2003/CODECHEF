@@ -1,9 +1,8 @@
-[#include <iostream>
+#include <iostream>
 using namespace std;
-//write your code here
+
 
 int main() {
-	// your code goes here
 	int r;
 	cin>>r;
 	if(0<r && r<51){
@@ -16,4 +15,4 @@ int main() {
 	    cout<<"0";
 	}
 	return 0;
-}]
+}
